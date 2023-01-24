@@ -1,2 +1,4 @@
 # waltz_identifier
-Checking if the melody is a waltz
+
+1. Checking if the melody is a waltz
+    - waltz recognizer.ipynb
